@@ -1,4 +1,4 @@
-# Mission 7 for Seben
+# Mission 1 for Seben
 
 init, t 101,
 wait, t 3
